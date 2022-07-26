@@ -1,10 +1,6 @@
 ## Welcome to Gabriel Mendonça's profile 😁
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<title>Gabriel Mendonça</title>
-</head>
-<body>
  <div>
    <a href="https://github.com/GabsGabsy">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsGabsy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -29,4 +25,4 @@
  ![Snake animation](https://github.com/GabsGabsy/GabsGabsy/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-</body>
+
