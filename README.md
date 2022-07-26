@@ -1,4 +1,4 @@
-## Welcome to Gabriel Mendonça's profile 😁
+## Welcome to Gabriel Mendonça's profile!
 <!DOCTYPE html>
 <html lang="en">
  <div>
